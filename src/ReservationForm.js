@@ -24,6 +24,7 @@ const ReservationForm = () => {
             <label htmlFor="people">Number of People:</label>
             <input name="people" type="number" min="1" max="10" className="form-control" />
           </div>
+          <input type="submit" value="Check for Tables" className="btn btn-secondary" />
         </form>
       </div>
     </div>

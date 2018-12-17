@@ -8,10 +8,10 @@ const NavBar = () => {
         <a className="nav-link">Welcome</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link">Reservations</a>
+        <a href="#reservations" className="nav-link">Reservations</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link">Food & Drink</a>
+        <a href="#menu"className="nav-link">Food & Drink</a>
       </li>
       <li className="nav-item">
         <a className="nav-link">Contact</a>

@@ -8,7 +8,7 @@ const Menu = ({items}) => {
   ))
 
   return (
-    <div className="menu">
+    <div id="menu">
       <h3>Menu</h3>
       <hr />
       {menu}
